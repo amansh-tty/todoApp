@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const TodoList(title: 'Flutter Demo Home Page'),
+      home: const TodoList(title: 'This is a Todo App '),
     );
   }
 }
